@@ -1,2 +1,3 @@
-# My-PORTFOLIO
 
+host krne k liye hostinger website pe jaa skte h or deploy kr skte h fir apna website(shrutiportfolio) launch ho jayega
+msg service khulwnae k liye means msg admin k gmail pr aaye usk liye email js mai jaakr integration se userid daal de footer wale mai fir wo chalu ho jayega........
