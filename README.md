@@ -1,3 +1,7 @@
+# MY PORTFOLIO
 
-host krne k liye hostinger website pe jaa skte h or deploy kr skte h fir apna website(shrutiportfolio) launch ho jayega
-msg service khulwnae k liye means msg admin k gmail pr aaye usk liye email js mai jaakr integration se userid daal de footer wale mai fir wo chalu ho jayega........
+This is my first website application and I am so happy that I completed these project.
+I have learned ReactJS and NodeJS with CSS, HTML, JAVASCRIPT.
+
+YES , here I have not uploaded node_modules folder of react because it is too bulk and there is no modification in that so no need to worry.
+If you like please share your review.
